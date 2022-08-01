@@ -24,3 +24,9 @@ h1 {
     font-style: italic;
     color: #999;
 }
+
+.card {
+   margin: 10px;
+    padding: 10px;
+    border: 2px red solid;
+}
